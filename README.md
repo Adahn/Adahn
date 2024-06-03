@@ -68,9 +68,18 @@
     <!-- Add more badges similarly -->
 </div>
 
+#### Visualisation
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Adahn/Adahn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3dotjs&logoColor=white" alt="D3.js" />
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/-Mui-007FFF?logo=mui&logoColor=white" alt="Mui" />
+    <img src="https://img.shields.io/badge/-Seaborn-23FF3" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/-Matplotlib-8A2BE2" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/-Bokeh-3776AB" alt="Text" />
+    <!-- Add more badges similarly -->
 </div>
+
 
 
 <!--
