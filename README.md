@@ -1,9 +1,15 @@
 ## Hi there 👋
 
+### Programming languages
 <div align="center">
     <!-- Replace with your skills -->
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=yellow" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/-Scala-DC322F?logo=scala" alt="Scala" />
+    <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter" alt="Flutter" />
+    <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart" alt="Dart" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-R-276DC3?logo=r" alt="R" />
     <!-- Add more badges similarly -->
 </div>
 
