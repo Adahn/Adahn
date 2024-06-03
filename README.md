@@ -3,8 +3,7 @@
 <div align="center">
     <!-- Replace with your skills -->
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&labelColor=yellow" alt="Python" />
-    <img src="[https://img.shields.io/badge/Javascript?logo=javascript](https://img.shields.io/badge/-Scala-DC322F?logo=scala
-)" alt="Scala" />
+    <img src="https://img.shields.io/badge/-Scala-DC322F?logo=scala" alt="Scala" />
     <!-- Add more badges similarly -->
 </div>
 
