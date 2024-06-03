@@ -51,10 +51,20 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/-Apache%20Parquet-50ABF1?logo=apacheparquet&logoColor=white" alt="Parquet" />
-    <img src="https://img.shields.io/badge/-Text-23FF3" alt="Text" />
-    <img src="https://img.shields.io/badge/-Audio-8A2BE2" alt="Audio" />
-    <img src="https://img.shields.io/badge/-SpaCy-3776AB" alt="Text" />
-    <img src="https://img.shields.io/badge/-NLTK-DC322F" alt="Audio" />
+    <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" alt="Spark" />
+    <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white" alt="Spark" />
+    <img src="https://img.shields.io/badge/-OVH-123F6D&logo=ovh&logoColor=white" alt="ovh" />
+    <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=white" alt="Harbor" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
+    <img src="https://img.shields.io/badge/-MetaFlow-8A2BE2" alt="MetaFlow" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/-GitHub-181717&logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF&logo=githubactions&logoColor=white" alt="Github Actions" />
+    <img src="https://img.shields.io/badge/-CICD-8A2BE2" alt="MeCICDtaFlow" />
     <!-- Add more badges similarly -->
 </div>
 
