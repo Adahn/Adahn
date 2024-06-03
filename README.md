@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white" alt="Spark" />
     <img src="https://img.shields.io/badge/-OVH-123F6D&logo=ovh&logoColor=white" alt="ovh" />
     <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/-Firebase-EE4C2C?logo=firebase&logoColor=white" alt="Firebase" />
     <img src="https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=white" alt="Harbor" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/-FastAPI-009688&logo=fastapi&logoColor=white" alt="FastAPI" />
