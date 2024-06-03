@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+![Metrics](https://metrics.lecoq.io/Adahn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=C%2B%2B%2C%20C%2C%20CSS%2C%20Yacc%2C%20Makefile%2C%20Shell&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
+
+
 #### Programming languages
 <div align="center">
     <!-- Replace with your skills -->
@@ -39,12 +44,19 @@
     <!-- Add more badges similarly -->
 </div>
 
-
-
-![Metrics](https://metrics.lecoq.io/Adahn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=C%2B%2B%2C%20C%2C%20CSS%2C%20Yacc%2C%20Makefile%2C%20Shell&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
-
-
-
+#### MLOps
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/-Apache%20Parquet-50ABF1?logo=apacheparquet&logoColor=white" alt="Parquet" />
+    <img src="https://img.shields.io/badge/-Text-23FF3" alt="Text" />
+    <img src="https://img.shields.io/badge/-Audio-8A2BE2" alt="Audio" />
+    <img src="https://img.shields.io/badge/-SpaCy-3776AB" alt="Text" />
+    <img src="https://img.shields.io/badge/-NLTK-DC322F" alt="Audio" />
+    <!-- Add more badges similarly -->
+</div>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Adahn/Adahn/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
