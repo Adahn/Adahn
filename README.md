@@ -1,6 +1,38 @@
 ## Hi there 👋
 
+Since 2022, I am mainly working on the tech of Akuity Care where we develop AI algorithms to detect diseases using voice data, so called vocal biomarkers.
 
+I have architected & implemented the entire cloud-based tech / ML stack: 
+- Developed SOTA machine learning algorithms to predict diseases from audio data
+- Developed SOTA machine learning algorithms to predict emotional states from text data
+- Designed and implemented internal Python package for audio preprocessing, feature extraction, transcription, data augmentation, testing and visualisation
+- Built backend and frontend for web app being used in projects with hospitals and doctors
+- Built backend and frontend for well-being mobile app
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter" alt="Flutter" />
+    <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart" alt="Dart" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface" alt="Hugging Face" />
+    <img src="https://img.shields.io/badge/-Transformers-F4D41E" alt="Transformers" />
+    <img src="https://img.shields.io/badge/-LLMs-04D41E" alt="LLMs" />
+    <img src="https://img.shields.io/badge/-NLP-8A2BE2" alt="NLP" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-OVH-123F6D&logo=ovh&logoColor=white" alt="ovh" />
+    <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazons3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/-Harbor-60B932?logo=harbor&logoColor=white" alt="Harbor" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
+    <img src="https://img.shields.io/badge/-GitHub-181717&logo=github&logoColor=white" alt="Github" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF&logo=githubactions&logoColor=white" alt="Github Actions" />
+    <!-- Add more badges similarly -->
+</div>
 
 ![Metrics](https://metrics.lecoq.io/Adahn?template=classic&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=C%2B%2B%2C%20C%2C%20CSS%2C%20Yacc%2C%20Makefile%2C%20Shell&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis)
 
@@ -65,7 +97,7 @@
     <img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" alt="Nginx" />
     <img src="https://img.shields.io/badge/-GitHub-181717&logo=github&logoColor=white" alt="Github" />
     <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF&logo=githubactions&logoColor=white" alt="Github Actions" />
-    <img src="https://img.shields.io/badge/-CICD-8A2BE2" alt="MeCICDtaFlow" />
+    <img src="https://img.shields.io/badge/-CICD-8A2BE2" alt="CICD" />
     <!-- Add more badges similarly -->
 </div>
 
